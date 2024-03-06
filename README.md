@@ -1,13 +1,14 @@
-# Users Admin
+# Users Admin Frontend
 
 This project was developed using React.js
 
 Developed features:
 
-- User listing
-- User deleting
+- List of users
+- Create user
+- Delete user
 
 Missing features:
 
-- User Edit
-- User Details
+- Show user details
+- Edit user
